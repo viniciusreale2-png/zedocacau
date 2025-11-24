@@ -1,0 +1,7 @@
+{
+  "name": "ZÉ DO CACAU",
+  "description": "Um aplicativo para produtores de cacau registrarem sua colheita e agendarem coletas com suas empresas comerciais afiliadas. Possui análise de quantidade com IA para facilitar o uso.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
